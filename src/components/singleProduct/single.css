@@ -1,0 +1,17 @@
+.product{
+    box-sizing: border-box;
+}
+.subtitle{
+    display: flex;
+    justify-content: space-between;
+    font-size:0.8rem;
+    font-weight: 400;
+}
+.title{
+  font-size: 1rem;
+  display: flex;
+  justify-content: space-between;
+}
+Button{
+    width: 97%;
+}
